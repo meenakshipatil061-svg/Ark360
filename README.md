@@ -1,4 +1,5 @@
-## Legal Notice
+## Ark360
+## Legal notice
 
 Ark360 is for educational purposes only. Users **must own the original Xbox 360 games** they wish to emulate. 
 
